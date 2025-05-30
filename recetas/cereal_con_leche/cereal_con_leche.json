@@ -1,0 +1,39 @@
+{
+  "titulo": "Cereal con leche",
+  "imagen_principal": "recetas/cereal_con_leche/cereal_con_leche.webp",
+  "porciones": 1,
+  "ingredientes": [
+    {
+      "nombre": "cereal del 3B",
+      "precio": 30
+    },
+    {
+      "nombre": "leche de la vaca blanca",
+      "precio": 20
+    }
+  ],
+  "preparacion": [
+    {
+      "paso": "PASO 1",
+      "instrucciones": "coloca el cereal en un tazon",
+      "imagen": "recetas/cereal_con_leche/paso1.webp"
+    },
+    {
+      "paso": "PASO 2",
+      "instrucciones": "echale chele",
+      "imagen": "recetas/cereal_con_leche/paso2.webp"
+    },
+    {
+      "paso": "PASO 3",
+      "instrucciones": "Disfruta.",
+      "imagen": "recetas/cereal_con_leche/paso3.webp"
+    }
+  ],
+    "resenias": [
+    {
+      "usuario": "Admon",
+      "resenia": "ta mas caro que mi pasaje de 2 dias",
+      "estrellas": 1
+    }
+  ]
+}
