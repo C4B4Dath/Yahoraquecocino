@@ -1,0 +1,49 @@
+{
+  "titulo": "Tacos de Sal",
+  "imagen_principal": "recetas/tacos_de_sal/taco_sal.webp",
+  "porciones": 1,
+  "ingredientes": [
+    {
+      "nombre": "Tortillas",
+      "precio": 3
+    },
+    {
+      "nombre": "sal de la tiendita",
+      "precio": 5
+    }
+  ],
+  "preparacion": [
+    {
+      "paso": "PASO 1",
+      "instrucciones": "Colocar la tortilla extendida sobre la mano",
+      "imagen": "recetas/tacos_de_sal/paso1.jpg"
+    },
+    {
+      "paso": "PASO 2",
+      "instrucciones": "Esparcir una pequeña pizca de sal y enrollar.",
+      "imagen": "recetas/tacos_de_sal/paso2.jpeg"
+    },
+    {
+      "paso": "PASO 3",
+      "instrucciones": "Disfruta.",
+      "imagen": "recetas/tacos_de_sal/paso3.jpeg"
+    }
+  ],
+    "resenias": [
+    {
+      "usuario": "Admon",
+      "resenia": "Muy llenador pero poco sabor",
+      "estrellas": 1
+    },
+    {
+      "usuario": "Admon",
+      "resenia": "pretexto para poner mas estrellas",
+      "estrellas": 2
+    },
+    {
+      "usuario": "Admon",
+      "resenia": "Mango balato",
+      "estrellas": 5
+    }
+  ]
+}
