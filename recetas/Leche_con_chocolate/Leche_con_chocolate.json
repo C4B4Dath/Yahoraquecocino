@@ -1,0 +1,33 @@
+{
+    "titulo": "Leche con chocolate",
+    "imagen_principal": "recetas\/Leche_con_chocolate\/principal.webp",
+    "porciones": 1,
+    "ingredientes": [
+        {
+            "nombre": "Leche de la vaca blanca",
+            "precio": 20
+        },
+        {
+            "nombre": "Sobre de chocolate pancho pantera",
+            "precio": 8
+        }
+    ],
+    "preparacion": [
+        {
+            "paso": "PASO 1",
+            "instrucciones": "Sirva leche en un vaso",
+            "imagen": "recetas\/Leche_con_chocolate\/paso_1.webp"
+        },
+        {
+            "paso": "PASO 2",
+            "instrucciones": "Agregue chocolate y mezcle bien",
+            "imagen": "recetas\/Leche_con_chocolate\/paso_2.webp"
+        },
+        {
+            "paso": "PASO 3",
+            "instrucciones": "Disfrute",
+            "imagen": "recetas\/Leche_con_chocolate\/paso_3.webp"
+        }
+    ],
+    "resenias": []
+}
